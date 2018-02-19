@@ -1,0 +1,29 @@
+/*Working on the best website ever!*/
+
+body{
+	background-color: #fff;
+}
+
+#first_thing{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	align-content: center;
+}
+
+#paragraph{
+	display: flex;
+	text-align: center;
+	align-items: center;
+	justify-content: center;
+	align-content: center;
+	flex-direction: column;
+	margin-top: 5%;
+}
+
+p{
+	margin-top: 0px;
+}
+h1, h2,h3,h4{
+	margin-bottom: 5px;
+}
