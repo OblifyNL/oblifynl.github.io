@@ -6,7 +6,7 @@ body{
 }
 
 #first_thing{
-	margin-top: 2%;
+	margin-top: 5%;
 	display: flex;
 	align-items: center;
 	justify-content: center;
@@ -20,7 +20,17 @@ body{
 	justify-content: center;
 	align-content: center;
 	flex-direction: column;
-	margin-top: 5%;
+	margin-top: 3%;
+}
+
+#gif{
+	display: flex;
+	text-align: center;
+	align-items: center;
+	justify-content: center;
+	align-content: center;
+	flex-direction: column;
+	margin-top: 3%;
 }
 
 p{
