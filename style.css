@@ -2,7 +2,6 @@
 
 body{
 	background-color: #fff;
-	font-family: 'Roboto', sans-serif;
 }
 
 #first_thing{
@@ -13,6 +12,18 @@ body{
 	align-content: center;
 }
 
+#title{
+	display: flex;
+	text-align: center;
+	align-items: center;
+	justify-content: center;
+	align-content: center;
+	flex-direction: column;
+	margin-top: 0%;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 700;
+}
+
 #paragraph{
 	display: flex;
 	text-align: center;
@@ -20,20 +31,14 @@ body{
 	justify-content: center;
 	align-content: center;
 	flex-direction: column;
-	margin-top: 1%;
-}
-
-#gif{
-	margin-top: 5%;
-	display: flex;
-	align-items: center;
-	justify-content: center;
-	align-content: center;
+	margin-top: 0%;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 400;
 }
 
 p{
 	margin-top: none;
 }
 h1, h2,h3,h4{
-	margin-bottom: 5px;
+	margin-bottom: 0px;
 }
