@@ -5,13 +5,14 @@ body{
 }
 
 #first_thing{
-	margin-top: 5%;
+	margin-top: 0%;
 	display: flex;
 	align-items: center;
 	justify-content: center;
 	align-content: center;
 	flex-direction: column;
 }
+#first_thing img{margin-top: 2%}
 
 #title{
 	display: flex;
